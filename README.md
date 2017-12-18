@@ -1,6 +1,6 @@
 # java-reactive-chat
 
-Java Reactive Chat is a server that echoes WebSocket messages, using Spring Boot 2, WebFlux, WebSocket, and React.
+This Spring 5 reactive server will echo back chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5, WebFlux, Websocket, and React
 
 ## Getting Started
 
@@ -8,16 +8,16 @@ Clone this repository to your development directory.  Open the Project with Inte
 
 ### Prerequisites
 
-git (to clone this repository)
-IntelliJ 2017.x+
-Java 8+
+* git (to clone this repository)
+* IntelliJ 2017.x+
+* Java 8+
 
 ### Acknowledgements
 
 Johan Zietsman, author of How to Build a Chat App Using WebFlux, WebSockets, React
 http://blog.monkey.codes/how-to-build-a-chat-app-using-webflux-websockets-react/
 
-### More Information
+### Spring 5 WebFlux Reactive Documentation
 WebFlux Reactive Framework documentation from the Spring.io documentation website
 https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html
 
