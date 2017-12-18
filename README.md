@@ -1,6 +1,6 @@
 # java-reactive-chat
 
-java-reactive-chat echoes chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5, WebFlux, Websocket, and React
+Echoes chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5, WebFlux, Websocket, and React
 
 ## Getting Started
 
