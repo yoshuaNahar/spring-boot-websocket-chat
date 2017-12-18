@@ -1,6 +1,6 @@
 # java-reactive-chat
 
-This Spring 5 reactive server will echo back chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5, WebFlux, Websocket, and React
+java-reactive-chat echoes chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5, WebFlux, Websocket, and React
 
 ## Getting Started
 
@@ -15,11 +15,15 @@ Clone this repository to your development directory.  Open the Project with Inte
 ### Acknowledgements
 
 Johan Zietsman, author of How to Build a Chat App Using WebFlux, WebSockets, React
-http://blog.monkey.codes/how-to-build-a-chat-app-using-webflux-websockets-react/
+
+* http://blog.monkey.codes/how-to-build-a-chat-app-using-webflux-websockets-react/
 
 ### Spring 5 WebFlux Reactive Documentation
-WebFlux Reactive Framework documentation from the Spring.io documentation website
-https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html
 
-This guide walks you through the process of creating a "Hello, Spring!" RESTful web service with Spring WebFlux (new as of version 5) and then consumes that service with a WebClient (also new as of version 5).
-https://spring.io/guides/gs/reactive-rest-service/
+WebFlux Reactive Framework documentation from the Spring.io documentation website
+
+* https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html
+
+This guide walks you through the process of creating a "Hello, Spring!" RESTful web service with Spring WebFlux (new as of version 5) and then consumes that service with a WebClient (also new as of version 5)
+
+* https://spring.io/guides/gs/reactive-rest-service/
