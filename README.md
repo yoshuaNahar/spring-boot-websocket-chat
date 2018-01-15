@@ -4,7 +4,12 @@ Echoes chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5,
 
 ## Getting Started
 
-Clone this repository to your development directory.  Open the Project with IntelliJ.  Import the Gradle project.  Run the ReactiveChatApplication.java Application in IntelliJ.  The Spring Boot 2 server will boot up and the WebSocket connection will be ready.
+ * Clone this repository
+ * Open the Project with IntelliJ
+ * Import the Gradle project
+ * Run the ReactiveChatApplication in IntelliJ
+ 
+ The Spring Boot 2 server will boot up and the WebSocket connection will be ready.
 
 ### Prerequisites
 
