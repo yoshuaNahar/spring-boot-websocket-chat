@@ -13,7 +13,7 @@ Echoes chat messages sent via WebSocket.  java-reactive-chat utilizies Spring 5,
 
 ### Prerequisites
 
-* git (to clone this repository)
+* git (to clone this repository): https://github.com/lmorda/java-reactive-chat.git
 * IntelliJ 2017.x+
 * Java 8+
 
